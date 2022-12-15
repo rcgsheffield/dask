@@ -1,0 +1,11 @@
+# This is a Conda environment definition file.
+
+# See Conda docs - Managing environments:
+# https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.7
+  - dask=2022.12
