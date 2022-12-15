@@ -8,10 +8,25 @@ The purpose of this repository is to provide examples and templates for research
 
 # Installation
 
+## Installation on your machine
+
 1. Install [Conda](https://docs.conda.io/en/latest/)
 2. Create a virtual environment using [environment.yaml](environment.yaml)
 3. (Optional) Install [JupyterLab](https://jupyter.org/)
 
+## Installation on HPC
+
+See the [Python software page](https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/python.html) on the Sheffield HPC documentation.
+
+1. Load the Anaconda module
+2. Create a Conda virtual environment using [environment.yaml](environment.yaml)
+
 # Usage
 
+## Notebook
+
 TODO
+
+## Batch job
+
+See [Using Conda and Python in a batch job](https://docs.hpc.shef.ac.uk/en/latest/bessemer/software/apps/python.html#using-conda-and-python-in-a-batch-job) on the Sheffield HPC docs.
