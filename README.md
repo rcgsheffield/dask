@@ -8,6 +8,8 @@ The purpose of this repository is to provide examples and templates for research
 
 # Installation
 
+See also: [Dask installation](https://docs.dask.org/en/stable/install.html) page on the Dask documentation.
+
 ## Installation on your machine
 
 1. Install [Conda](https://docs.conda.io/en/latest/)
